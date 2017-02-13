@@ -200,6 +200,7 @@ var result = UglifyJS.minify([
 "mode/twig/twig.js", 
 "mode/vue/vue.js", 
 "mode/yaml-frontmatter/yaml-frontmatter.js", 
+"mode/freemarker/freemarker.js", 
 
 // keymaps
 "keymap/emacs.js",
