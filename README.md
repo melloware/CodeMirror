@@ -14,3 +14,10 @@ This will compress all the files in uglify-config.js in order into ./lib/codemir
 ### Freemarker Mode
 
 This build contains a custom Freemarker mode template modified from https://github.com/liuxiaole/codemirror-mode-freemarker
+
+### Sync with upstream CodeMirror
+
+$ git fetch upstream
+$ git checkout master
+$ git merge upstream/master
+$ git push origin master
