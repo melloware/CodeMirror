@@ -17,7 +17,7 @@ This build contains a custom Freemarker mode template modified from https://gith
 
 ### Sync with upstream CodeMirror
 
-$ git fetch upstream
-$ git checkout master
-$ git merge upstream/master
-$ git push origin master
+1. $ git fetch upstream
+2. $ git checkout master
+3. $ git merge upstream/master
+4. $ git push origin master
