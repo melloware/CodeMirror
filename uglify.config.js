@@ -72,8 +72,6 @@ var result = UglifyJS.minify([
 "addon/selection/active-line.js",
 "addon/selection/mark-selection.js",
 "addon/selection/selection-pointer.js",
-"addon/tern/tern.js",
-"addon/tern/worker.js",
 "addon/wrap/hardwrap.js",
 
 // modes
